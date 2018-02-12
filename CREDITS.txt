@@ -68,7 +68,8 @@ Google Fonts :
 	Website URL : https://fonts.google.com/specimen/Prata
 	License : SIL Open Font License, version 1.1
 	License URL : http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
-
+ 
+ 
 	
 	Tangerine Font:
 	Website URL : https://fonts.google.com/specimen/Tangerine
